@@ -16,7 +16,7 @@ We are showing our support for Aubrey and her family by tagging our commits and 
 
 In addition, a campaign on [gofundme](https://www.gofundme.com/bhdrw23w) was started to help her and her family with expenses. Please help support them through this hard time [here](https://www.gofundme.com/bhdrw23w).
 
-## How I did it:
+## How you can change your commit history to support Aubrey:
 
 1. Clone `https://github.com/gelstudios/gitfiti`
 1. Clone `https://github.com/JordanMajd/code-for-aubrey`
