@@ -2,6 +2,8 @@
 
 This project turns your github profile's public commit history into the text `AUBREY <3`.
 
+If you like or are using this config, please give it a :star: for motivation :smile:
+
 Example:
 
 ![image of a commit history that reads aubrey <3](example.png)
